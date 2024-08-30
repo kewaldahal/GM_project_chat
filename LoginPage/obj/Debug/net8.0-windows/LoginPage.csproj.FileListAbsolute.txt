@@ -1,0 +1,16 @@
+D:\organized codes\winforms\LoginPage\LoginPage\bin\Debug\net8.0-windows\LoginPage.exe
+D:\organized codes\winforms\LoginPage\LoginPage\bin\Debug\net8.0-windows\LoginPage.deps.json
+D:\organized codes\winforms\LoginPage\LoginPage\bin\Debug\net8.0-windows\LoginPage.runtimeconfig.json
+D:\organized codes\winforms\LoginPage\LoginPage\bin\Debug\net8.0-windows\LoginPage.dll
+D:\organized codes\winforms\LoginPage\LoginPage\bin\Debug\net8.0-windows\LoginPage.pdb
+D:\organized codes\winforms\LoginPage\LoginPage\obj\Debug\net8.0-windows\LoginPage.Form1.resources
+D:\organized codes\winforms\LoginPage\LoginPage\obj\Debug\net8.0-windows\LoginPage.csproj.GenerateResource.cache
+D:\organized codes\winforms\LoginPage\LoginPage\obj\Debug\net8.0-windows\LoginPage.GeneratedMSBuildEditorConfig.editorconfig
+D:\organized codes\winforms\LoginPage\LoginPage\obj\Debug\net8.0-windows\LoginPage.AssemblyInfoInputs.cache
+D:\organized codes\winforms\LoginPage\LoginPage\obj\Debug\net8.0-windows\LoginPage.AssemblyInfo.cs
+D:\organized codes\winforms\LoginPage\LoginPage\obj\Debug\net8.0-windows\LoginPage.csproj.CoreCompileInputs.cache
+D:\organized codes\winforms\LoginPage\LoginPage\obj\Debug\net8.0-windows\LoginPage.dll
+D:\organized codes\winforms\LoginPage\LoginPage\obj\Debug\net8.0-windows\refint\LoginPage.dll
+D:\organized codes\winforms\LoginPage\LoginPage\obj\Debug\net8.0-windows\LoginPage.pdb
+D:\organized codes\winforms\LoginPage\LoginPage\obj\Debug\net8.0-windows\LoginPage.genruntimeconfig.cache
+D:\organized codes\winforms\LoginPage\LoginPage\obj\Debug\net8.0-windows\ref\LoginPage.dll
